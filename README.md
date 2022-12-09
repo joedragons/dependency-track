@@ -18,7 +18,6 @@
 
 ![logo preview](https://raw.githubusercontent.com/DependencyTrack/branding/master/dt-logo-black-text.svg?sanitize=true)
 
-
 Dependency-Track is an intelligent [Component Analysis] platform that allows organizations to
 identify and reduce risk in the software supply chain. Dependency-Track takes a unique
 and highly beneficial approach by leveraging the capabilities of [Software Bill of Materials] (SBOM). This approach
